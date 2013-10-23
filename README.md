@@ -1,4 +1,3 @@
-performance-tests
-=================
+# performance-tests
 
-Performance Tests
+Some performance tests scripts.

@@ -1,0 +1,23 @@
+  {
+  "name": "dynamodb-perf",
+  "version": "0.0.1",
+  "author": {
+    "name": "B2M Solutions",
+    "url": "https://github.com/B2MSolutions"
+  },
+  "contributors": [{
+    "name": "Roy Lines",
+    "url": "http://roylines.co.uk"
+  }],
+  "dependencies": {
+    "async": "*",
+    "aws-sdk": "1.2.0",
+    "node-uuid": "*"
+  },
+  "devDependencies": {
+    "mocha": "1.10.0"
+  },
+  "scripts": {
+    "test": "mocha ./*-test.js --reporter spec"
+  }
+}
